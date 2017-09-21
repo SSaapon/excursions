@@ -1,0 +1,18 @@
+html{
+  font-family: verdana, san-serif;
+  text-align: center;
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+}
+
+#links{
+  font-size: 16px;
+  text-decoration: underline;
+  color: aquamarine;
+
+}
